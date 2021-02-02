@@ -2,6 +2,9 @@
 
 （gitee好像把图片资源屏蔽了，改到vercel部署了）
 
+所以不要用Gitee Pages 服务部署了
+
+github地址：https://github.com/xiaopengand/daxigua
 
 魔改版演示地址：https://xiaoxigua.vercel.app/
 
